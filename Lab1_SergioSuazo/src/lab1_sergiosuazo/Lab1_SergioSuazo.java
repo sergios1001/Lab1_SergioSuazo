@@ -140,7 +140,7 @@ public class Lab1_SergioSuazo {
     {
         if(i==mat.length-1&&j==mat.length-1)
         {
-            System.out.print(" "+mat[i][j]);
+            System.out.println(" "+mat[i][j]);
         }
         else
         {
